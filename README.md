@@ -7,5 +7,7 @@ Q2.OPENCV.jpg
   image.py
   iScreen Shoter - Safari - 250309183320.jpg
 FILE NAME FOR ELECTRICAL SUBSYSTEMS:
-Q1.
-  
+Q1.H bridge.jpg 
+  PCB.jpg 
+  SCHEMATIC.jpg 
+Q2.

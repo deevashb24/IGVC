@@ -10,4 +10,11 @@ FILE NAME FOR ELECTRICAL SUBSYSTEMS:
 Q1.H bridge.jpg 
   PCB.jpg 
   SCHEMATIC.jpg 
-Q2.
+Q2.Battery selection.jpg
+FILE NAME FOR MECHANICAL SUBSYSTEMS:
+Q1.MOTORencoder.jpg
+  SampleSENSOR2.jpg
+  frame v2.f3d
+  frame v2.ipt
+  motorencoder.jpg
+Q2.LEAF SPRING SUSPENSION (1).pdf
